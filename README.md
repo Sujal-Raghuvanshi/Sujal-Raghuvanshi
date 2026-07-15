@@ -15,16 +15,16 @@
 <br/><br/>
 
 <!-- Social Badges -->
-<a href="https://github.com/bhavtosh-pathak">
+<a href="https://github.com/Sujal-Raghuvanshi">
   <img src="https://img.shields.io/github/followers/bhavtosh-pathak?label=Followers&style=for-the-badge&color=00F7FF&labelColor=1a1a2e" />
 </a>
-<a href="https://github.com/bhavtosh-pathak">
+<a href="https://github.com/Sujal-Raghuvanshi">
   <img src="https://komarev.com/ghpvc/?username=bhavtosh-pathak&label=Profile%20Views&color=7B2FF7&style=for-the-badge" />
 </a>
-<a href="https://www.linkedin.com/in/bhavtosh-pathak-8289b0294/">
+<a href="https://leetcode.com/u/Sujal-Raghuvanshi/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/bhavtoshpathak/">
+<a href="https://leetcode.com/u/Sujal-Raghuvanshi/">
   <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
